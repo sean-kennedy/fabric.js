@@ -1,3 +1,7 @@
+### Disclaimer
+
+This is just a compiled version of Fabric.js with gesture support. This is not my codebase.
+
 ### Fabric
 
 <!-- chat, support -->
